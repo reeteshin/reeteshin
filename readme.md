@@ -27,7 +27,7 @@
 
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=reeteshin&show_icons=true&theme=radical&include_all_commits=true">
+<img aline="center" src="https://github-readme-stats.vercel.app/api?username=reeteshin&show_icons=true&theme=radical&include_all_commits=true">
 
 <br>
 
