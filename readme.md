@@ -1,11 +1,11 @@
-<h2>Hi There <img  src="" width="30px">Reetesh Meena</h2>
 
 <h1 align="center">
    Reetesh Meena
 </h1>
 
+<h3>Hi There <img  src="" width="30px">Reetesh Meena</h3>
 
-### I'm a **Full Stack Web Developer**.I did my graduation from a lovely professional university from Jalandhar Punjab, currently, I am doing full-stack development at Masai school, apart from that I also like to work with collaborative projects, learning new things that boost my skills and mindset looking forward to enhance my carrier in this field
+### I'm a **Full Stack Web Developer**.I did my graduation from a lovely professional university from Jalandhar Punjab, currently, I am doing full-stack development at Masai school, apart from that I also like to work with collaborative projects, learning new things that boost my skills and mindset looking forward to enhancing my carrier in this field
 
 #### 📄 [Resume](https://github.com/reeteshin/reeteshin/blob/main/My%20Resume.pdf)
 
