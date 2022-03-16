@@ -3,7 +3,8 @@
    Reetesh Meena
 </h1>
 
-### Hi There Reetesh Meena
+### Hi There,
+### `I am Reetesh Meena`
 
 ### I'm a **Full Stack Web Developer**.I did my graduation from a Lovely Professional University from Jalandhar Punjab, currently, I am doing full-stack development at Masai school, apart from that I also like to work with collaborative projects, learning new things that boost my skills and mindset looking forward to enhancing my carrier in this field
 
