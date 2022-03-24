@@ -8,7 +8,7 @@
 
 ### I'm a **Full Stack Web Developer**.I did my graduation from a Lovely Professional University from Jalandhar Punjab, currently, I am doing full-stack development at Masai school, apart from that I also like to work with collaborative projects, learning new things that boost my skills and mindset looking forward to enhancing my carrier in this field
 
-#### 📄 [Resume](https://github.com/reeteshin/reeteshin/blob/main/reetsh%20Resume%201.0.pdf)
+#### 📄 <a href="https://github.com/reeteshin/reeteshin/blob/main/reetsh%20Resume%201.0.pdf" target = "blank">[Resume]</a>
 
 ## Skill Set :muscle:
 
