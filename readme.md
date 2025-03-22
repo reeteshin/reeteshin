@@ -6,7 +6,7 @@
 ### Hi There,
 ### `I am Reetesh Meena`
 
-### I'm a **Full Stack Web Developer**.I did my graduation from a Lovely Professional University from Jalandhar Punjab, currently, I am doing full-stack development at Masai school, apart from that I also like to work with collaborative projects, learning new things that boost my skills and mindset looking forward to enhancing my carrier in this field
+### "I'm a Full Stack Web Developer with a B.Tech in Computer Science from Lovely Professional University, Jalandhar. Currently, I work as a Software Developer at Clayfin, where I contribute to building and optimizing banking applications. Additionally, I'm enhancing my full-stack development skills at Masai School. I thrive in collaborative environments, enjoy problem-solving, and continuously explore new technologies to improve my expertise. Looking forward to advancing my career and making impactful contributions in the tech industry."
 
 #### 📄 <a href="https://github.com/reeteshin/reeteshin/blob/main/ReeteshB1.pdf" target ="_blank">[Resume]</a>
 
