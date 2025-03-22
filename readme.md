@@ -8,7 +8,7 @@
 
 ### "I'm a Full Stack Web Developer with a B.Tech in Computer Science from Lovely Professional University, Jalandhar. Currently, I work as a Software Developer at Clayfin, where I contribute to building and optimizing banking applications. Additionally, I'm enhancing my full-stack development skills at Masai School. I thrive in collaborative environments, enjoy problem-solving, and continuously explore new technologies to improve my expertise. Looking forward to advancing my career and making impactful contributions in the tech industry."
 
-#### 📄 <a href="https://github.com/reeteshin/reeteshin/blob/main/ReeteshB1.pdf" target ="_blank">[Resume]</a>
+#### 📄 <a href="https://github.com/reeteshin/reeteshin/blob/main/ReeteshMeena_Final.pdf" target ="_blank">[Resume]</a>
 
 ## Skill Set :muscle:
 
